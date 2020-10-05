@@ -1,5 +1,7 @@
-# 255-Team-1-Project
+<p align="center">
+<b>255-Team-1-Project</b></br>
 Clustering tweets by concepts
+</p>
 
 
 1. (2 pts) Project title.
@@ -22,10 +24,10 @@ Clustering tweets by concepts
 
 
 
-# Data Source
+### Data Source
 
-# Problem/Question
+### Problem/Question
 
-# Potential Methods
+### Potential Methods
 
-# Measurement
+### Measurement
