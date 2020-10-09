@@ -4,8 +4,8 @@ Clustering tweets by concepts
 </p>
 
 
-1. (2 pts) Project title.
-2. (25 pts) What data you’ll use and where you’ll get it?
+1. (2 pts) Project title. - United States Presidential election, 2020
+2. (25 pts) What data you’ll use and where you’ll get it? 
 * If considering a dataset from a site such as kaggle, email me for approval.
 * Otherwise, consider looking at the list I have at the end of this document
 3. (25 pts) Description of the problem you’ll solve or the question you’ll investigate.
@@ -25,9 +25,9 @@ Clustering tweets by concepts
 
 
 ### Data Source
-
+https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020
 ### Problem/Question
-
+Who will win the United States 2020 Presidential Election?
 ### Potential Methods
 
 ### Measurement
